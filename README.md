@@ -4,7 +4,7 @@ The client, The Gaming Room, requests a web-based game that will serve multiple 
 
 - What did you do particularly well in developing this documentation?
 
-I believe I thoroughy provided recommendations for the clients. I included prominent characteristics that the client would need when developing their application. 
+I believe I thoroughly provided recommendations for the clients. I included prominent characteristics that the client would need when developing their application. 
 
 - What about the process of working through a design document did you find helpful when developing the code?
 
